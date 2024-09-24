@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/RoniBac/Cv-Proyect/static/css/main.571d9183.css",
-    "main.js": "/RoniBac/Cv-Proyect/static/js/main.c8f5be5d.js",
-    "static/js/453.98651a66.chunk.js": "/RoniBac/Cv-Proyect/static/js/453.98651a66.chunk.js",
-    "static/media/R.png": "/RoniBac/Cv-Proyect/static/media/R.2dd9dcff83322cdb4006.png",
-    "static/media/logo.svg": "/RoniBac/Cv-Proyect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/leng.svg": "/RoniBac/Cv-Proyect/static/media/leng.b71ffbd6f3b5a445a3281b01bed890c1.svg",
-    "static/media/hab.svg": "/RoniBac/Cv-Proyect/static/media/hab.1d785e6d1a3fe98740ebcc4e966fe447.svg",
-    "index.html": "/RoniBac/Cv-Proyect/index.html",
-    "static/media/user.svg": "/RoniBac/Cv-Proyect/static/media/user.fa6d85327a3860a1a939a5c2eada50e1.svg",
-    "static/media/loc.svg": "/RoniBac/Cv-Proyect/static/media/loc.3bf8c74a46f1f0476164315f8ab5fc61.svg",
-    "main.571d9183.css.map": "/RoniBac/Cv-Proyect/static/css/main.571d9183.css.map",
-    "main.c8f5be5d.js.map": "/RoniBac/Cv-Proyect/static/js/main.c8f5be5d.js.map",
-    "453.98651a66.chunk.js.map": "/RoniBac/Cv-Proyect/static/js/453.98651a66.chunk.js.map"
+    "main.css": "/Cv-Proyect/static/css/main.571d9183.css",
+    "main.js": "/Cv-Proyect/static/js/main.841dc58f.js",
+    "static/js/453.98651a66.chunk.js": "/Cv-Proyect/static/js/453.98651a66.chunk.js",
+    "static/media/R.png": "/Cv-Proyect/static/media/R.2dd9dcff83322cdb4006.png",
+    "static/media/logo.svg": "/Cv-Proyect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/leng.svg": "/Cv-Proyect/static/media/leng.b71ffbd6f3b5a445a3281b01bed890c1.svg",
+    "static/media/hab.svg": "/Cv-Proyect/static/media/hab.1d785e6d1a3fe98740ebcc4e966fe447.svg",
+    "index.html": "/Cv-Proyect/index.html",
+    "static/media/user.svg": "/Cv-Proyect/static/media/user.fa6d85327a3860a1a939a5c2eada50e1.svg",
+    "static/media/loc.svg": "/Cv-Proyect/static/media/loc.3bf8c74a46f1f0476164315f8ab5fc61.svg",
+    "main.571d9183.css.map": "/Cv-Proyect/static/css/main.571d9183.css.map",
+    "main.841dc58f.js.map": "/Cv-Proyect/static/js/main.841dc58f.js.map",
+    "453.98651a66.chunk.js.map": "/Cv-Proyect/static/js/453.98651a66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.571d9183.css",
-    "static/js/main.c8f5be5d.js"
+    "static/js/main.841dc58f.js"
   ]
 }
