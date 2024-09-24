@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.571d9183.css",
-    "main.js": "/static/js/main.2c294f18.js",
-    "static/js/453.98651a66.chunk.js": "/static/js/453.98651a66.chunk.js",
-    "static/media/R.png": "/static/media/R.2dd9dcff83322cdb4006.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/leng.svg": "/static/media/leng.b71ffbd6f3b5a445a3281b01bed890c1.svg",
-    "static/media/hab.svg": "/static/media/hab.1d785e6d1a3fe98740ebcc4e966fe447.svg",
-    "index.html": "/index.html",
-    "static/media/user.svg": "/static/media/user.fa6d85327a3860a1a939a5c2eada50e1.svg",
-    "static/media/loc.svg": "/static/media/loc.3bf8c74a46f1f0476164315f8ab5fc61.svg",
-    "main.571d9183.css.map": "/static/css/main.571d9183.css.map",
-    "main.2c294f18.js.map": "/static/js/main.2c294f18.js.map",
-    "453.98651a66.chunk.js.map": "/static/js/453.98651a66.chunk.js.map"
+    "main.css": "/RoniBac/Cv-Proyect/static/css/main.571d9183.css",
+    "main.js": "/RoniBac/Cv-Proyect/static/js/main.c8f5be5d.js",
+    "static/js/453.98651a66.chunk.js": "/RoniBac/Cv-Proyect/static/js/453.98651a66.chunk.js",
+    "static/media/R.png": "/RoniBac/Cv-Proyect/static/media/R.2dd9dcff83322cdb4006.png",
+    "static/media/logo.svg": "/RoniBac/Cv-Proyect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/leng.svg": "/RoniBac/Cv-Proyect/static/media/leng.b71ffbd6f3b5a445a3281b01bed890c1.svg",
+    "static/media/hab.svg": "/RoniBac/Cv-Proyect/static/media/hab.1d785e6d1a3fe98740ebcc4e966fe447.svg",
+    "index.html": "/RoniBac/Cv-Proyect/index.html",
+    "static/media/user.svg": "/RoniBac/Cv-Proyect/static/media/user.fa6d85327a3860a1a939a5c2eada50e1.svg",
+    "static/media/loc.svg": "/RoniBac/Cv-Proyect/static/media/loc.3bf8c74a46f1f0476164315f8ab5fc61.svg",
+    "main.571d9183.css.map": "/RoniBac/Cv-Proyect/static/css/main.571d9183.css.map",
+    "main.c8f5be5d.js.map": "/RoniBac/Cv-Proyect/static/js/main.c8f5be5d.js.map",
+    "453.98651a66.chunk.js.map": "/RoniBac/Cv-Proyect/static/js/453.98651a66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.571d9183.css",
-    "static/js/main.2c294f18.js"
+    "static/js/main.c8f5be5d.js"
   ]
 }
